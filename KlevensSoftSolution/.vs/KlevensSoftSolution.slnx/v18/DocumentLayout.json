@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\servertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\servertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\core\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\servertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\servertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\compressiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,44 +34,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Server.cs",
               "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Server\\Server.cs",
               "RelativeDocumentMoniker": "Core\\Server\\Server.cs",
               "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Server\\Server.cs",
               "RelativeToolTip": "Core\\Server\\Server.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T08:28:52.074Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tests",
+              "DocumentIndex": 2,
+              "Title": "Tests.csproj",
               "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\Tests.csproj",
               "RelativeDocumentMoniker": "Tests\\Tests.csproj",
               "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\Tests.csproj",
               "RelativeToolTip": "Tests\\Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-21T12:19:01.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T12:19:01.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ServerTests.cs",
               "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\ServerTests.cs",
               "RelativeDocumentMoniker": "Tests\\ServerTests.cs",
               "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\ServerTests.cs",
               "RelativeToolTip": "Tests\\ServerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T08:34:01.167Z",
               "EditorCaption": ""
@@ -84,14 +86,9 @@
               "RelativeDocumentMoniker": "Tests\\CompressionTest.cs",
               "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\CompressionTest.cs",
               "RelativeToolTip": "Tests\\CompressionTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:23:52.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-01-21T08:23:52.059Z"
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "RelativeToolTip": "Core\\Tools\\Compression.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:35:26.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T03:35:26.397Z"
             },
             {
               "$type": "Document",
@@ -116,8 +112,7 @@
               "RelativeToolTip": "Core\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:35:19.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T03:35:19.756Z"
             }
           ]
         }

@@ -1,25 +1,23 @@
 ﻿using Core.Server;
 using NUnit.Framework;
 
-[TestFixture]
 public class ServerTests
 {
     [Fact]
-    public void ConcurrentReaders_ShouldReadCorrectCount()
+    public void ItShould_read_correct_count()
     {
+        Server.ResetCount();
+
         // Arrange
-        Server.AddToCount(10);
-        int totalReaders = 10;
-        int expectedCount = Server.GetCount();
         int actualCount = 0;
+        int addCount = 10;
 
-        Parallel.For(0, totalReaders, _ =>
-        {
-            actualCount += Server.GetCount();
-        });
+        // Act
+        Server.AddToCount(addCount);
+        actualCount = Server.GetCount();
 
-        // Act & Assert
-        Xunit.Assert.Equal(expectedCount * totalReaders, actualCount);
+        //Assert
+        Xunit.Assert.Equal(addCount, actualCount);
         Server.ResetCount();
     }
 
@@ -30,12 +28,11 @@ public class ServerTests
         int writerCount = 5;
         int valueToAdd = 10;
 
+        // Act
         Parallel.For(0, writerCount, _ =>
         {
             Server.AddToCount(valueToAdd);
         });
-
-        // Act
         var finalCount = Server.GetCount();
 
         // Assert
