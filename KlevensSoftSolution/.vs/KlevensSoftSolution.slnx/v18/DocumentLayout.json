@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAE816F-BE2C-4A64-83FB-7E75CF9EBAC2}|Core\\Core.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\core\\compression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAE816F-BE2C-4A64-83FB-7E75CF9EBAC2}|Core\\Core.csproj|solutionrelative:core\\compression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAE816F-BE2C-4A64-83FB-7E75CF9EBAC2}|Core\\Core.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAE816F-BE2C-4A64-83FB-7E75CF9EBAC2}|Core\\Core.csproj|solutionrelative:core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956083CD-7B52-4903-B181-BCB96DF85C13}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956083CD-7B52-4903-B181-BCB96DF85C13}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compression.cs",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Compression.cs",
+              "RelativeDocumentMoniker": "Core\\Compression.cs",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Compression.cs",
+              "RelativeToolTip": "Core\\Compression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:35:26.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Program.cs",
+              "RelativeDocumentMoniker": "Core\\Program.cs",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Program.cs",
+              "RelativeToolTip": "Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:35:19.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:32:04.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
