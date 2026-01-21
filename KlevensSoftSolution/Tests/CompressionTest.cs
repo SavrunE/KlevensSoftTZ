@@ -1,6 +1,6 @@
 ﻿namespace Tests
 {
-    public class UnitTest1
+    public class CompressTest
     {
         [Fact]
         public void ItShould_string_compare_correctly()
@@ -9,10 +9,12 @@
             string input = "aaabbcccdde";
             string expectedCompressed = "a3b2c3d2e";
             var sut = new Compression();
-            var actualCompressed = sut.Compress(input);
+
             // Act
+            var actualCompressed = sut.Compress(input);
+
             // Assert
-            Assert.Equal(expectedCompressed, actualCompressed);
+            Xunit.Assert.Equal(expectedCompressed, actualCompressed);
         }
     }
 }
