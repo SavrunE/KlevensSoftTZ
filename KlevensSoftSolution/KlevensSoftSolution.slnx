@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Core/Core.csproj" />
+  <Project Path="Loger/Loger.csproj" Id="a34ec912-915a-4ae6-aff0-9155c40c87c1" />
   <Project Path="Tests/Tests.csproj" />
 </Solution>

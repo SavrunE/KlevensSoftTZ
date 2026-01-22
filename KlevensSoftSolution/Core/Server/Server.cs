@@ -12,9 +12,9 @@
         public static ICounter Instance { get; set; } = new ServerInstance();
         public static int GetCount() => Instance.GetCount();
         public static void AddToCount(int value) => Instance.AddToCount(value);
-#if DEBUG
+
         public static void ResetCount() => Instance.ResetCount();
-#endif
+
     }
 
     public class ServerInstance : ICounter

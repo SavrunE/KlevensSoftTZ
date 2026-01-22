@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\servertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\servertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A34EC912-915A-4AE6-AFF0-9155C40C87C1}|Loger\\Loger.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\loger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34EC912-915A-4AE6-AFF0-9155C40C87C1}|Loger\\Loger.csproj|solutionrelative:loger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\logertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\logertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\core\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\servertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|solutionrelative:tests\\servertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CF47860-2CEA-F379-09D8-9AEF27965D12}|Tests\\Tests.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\tests\\compressiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\core\\tools\\compression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\tools\\compression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|e:\\_tz_works\\klevenssoft\\klevenssoftsolution\\core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +42,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Server.cs",
-              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Server\\Server.cs",
-              "RelativeDocumentMoniker": "Core\\Server\\Server.cs",
-              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Server\\Server.cs",
-              "RelativeToolTip": "Core\\Server\\Server.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Loger\\Program.cs",
+              "RelativeDocumentMoniker": "Loger\\Program.cs",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Loger\\Program.cs",
+              "RelativeToolTip": "Loger\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:28:52.074Z",
-              "IsPinned": true
+              "WhenOpened": "2026-01-21T15:28:52.461Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogerTest.cs",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\LogerTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LogerTest.cs",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\LogerTest.cs",
+              "RelativeToolTip": "Tests\\LogerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T03:14:53.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -55,44 +78,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tests.csproj",
-              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\Tests.csproj",
-              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
-              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\Tests.csproj",
-              "RelativeToolTip": "Tests\\Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Core",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-21T12:19:01.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServerTests.cs",
-              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\ServerTests.cs",
-              "RelativeDocumentMoniker": "Tests\\ServerTests.cs",
-              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\ServerTests.cs",
-              "RelativeToolTip": "Tests\\ServerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:34:01.167Z",
+              "WhenOpened": "2026-01-22T06:38:33.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Program.cs",
+              "RelativeDocumentMoniker": "Core\\Program.cs",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Program.cs",
+              "RelativeToolTip": "Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T06:27:06.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Core\\Server\\Server.cs",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Server\\Server.cs",
+              "RelativeToolTip": "Core\\Server\\Server.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:28:52.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CompressionTest.cs",
               "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\CompressionTest.cs",
               "RelativeDocumentMoniker": "Tests\\CompressionTest.cs",
               "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\CompressionTest.cs",
               "RelativeToolTip": "Tests\\CompressionTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:23:52.059Z"
+              "WhenOpened": "2026-01-21T08:23:52.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Compression.cs",
               "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Tools\\Compression.cs",
               "RelativeDocumentMoniker": "Core\\Tools\\Compression.cs",
@@ -100,19 +138,21 @@
               "RelativeToolTip": "Core\\Tools\\Compression.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:35:26.397Z"
+              "WhenOpened": "2026-01-21T03:35:26.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Program.cs",
-              "RelativeDocumentMoniker": "Core\\Program.cs",
-              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Program.cs",
-              "RelativeToolTip": "Core\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "ServerTests.cs",
+              "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\ServerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServerTests.cs",
+              "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Tests\\ServerTests.cs",
+              "RelativeToolTip": "Tests\\ServerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:35:19.756Z"
+              "WhenOpened": "2026-01-21T08:34:01.167Z",
+              "EditorCaption": ""
             }
           ]
         }
