@@ -15,7 +15,9 @@ namespace LogStandardizer
 
         static void Main(string[] args)
         {
+
             string inputPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "input.log");
+            //shall find this outs in ...KlevensSoftSolution\Loger\bin\Debug\net10.0
             string outputPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "output.log");
             string problemsPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "problems.txt");
 

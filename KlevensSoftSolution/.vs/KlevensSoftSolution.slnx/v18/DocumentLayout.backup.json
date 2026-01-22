@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Loger\\Program.cs",
               "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Loger\\Program.cs",
               "RelativeToolTip": "Loger\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T15:28:52.461Z",
               "IsPinned": true,
@@ -79,15 +79,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Core",
+              "Title": "Core.csproj",
               "DocumentMoniker": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
               "ToolTip": "E:\\_TZ_works\\KlevensSoft\\KlevensSoftSolution\\Core\\Core.csproj",
               "RelativeToolTip": "Core\\Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-22T06:38:33.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:38:33.234Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "Core\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T06:27:06.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T06:27:06.844Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "Core\\Server\\Server.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAcwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:28:52.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T08:28:52.074Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "RelativeToolTip": "Tests\\CompressionTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:23:52.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T08:23:52.059Z"
             },
             {
               "$type": "Document",
@@ -138,8 +134,7 @@
               "RelativeToolTip": "Core\\Tools\\Compression.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:35:26.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T03:35:26.397Z"
             },
             {
               "$type": "Document",
@@ -151,8 +146,7 @@
               "RelativeToolTip": "Tests\\ServerTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:34:01.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T08:34:01.167Z"
             }
           ]
         }
